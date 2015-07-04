@@ -7,10 +7,12 @@ The Java Delight Suite is a collection of foundations and libraries to make work
 - Open Source under multiple licenses (Apache, MIT and GPL)
 - Supports Maven
 - Supports OSGi
+- Supports Android
 - Supports [Google Web Toolkit](http://www.gwtproject.org/)
 - Supports [Eclipse XTend](https://eclipse.org/xtend/)
 - Minimal external dependencies
 - No dependency injection
+- No reflection
 - Free support from [pureleap](http://pureleap.com)
  - Rise an issue on the delight-main GitHub project
  - Write us: javadelight@pureleap.com
