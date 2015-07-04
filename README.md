@@ -14,7 +14,7 @@ The Java Delight Suite is a collection of foundations and libraries to make work
 - No dependency injection
 - No reflection
 - Free support from [pureleap](http://pureleap.com)
- - Rise an issue on the delight-main GitHub project
+ - Rise an [issue on the delight-main GitHub project](https://github.com/javadelight/delight-main/issues)
  - Write us: javadelight@pureleap.com
  - Call us: +61 3 8679 4733
 
