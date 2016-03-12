@@ -4,7 +4,6 @@ The Java Delight Suite is a collection of foundations and libraries to make work
 
 ## Principles
 
-
 - Open Source under multiple licenses (Apache, MIT and GPL)
 - Supports Maven
 - Supports OSGi
