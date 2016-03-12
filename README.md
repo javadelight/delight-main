@@ -1,6 +1,6 @@
 # Java Delight Suite
 
-The Java Delight Suite is a collection of foundations and libraries to make working with Java more delightful.
+The [Java Delight Suite](http://javadelight.org) is a collection of foundations and libraries to make working with Java more delightful.
 
 ## Principles
 
