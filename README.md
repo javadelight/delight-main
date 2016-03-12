@@ -2,6 +2,19 @@
 
 The [Java Delight Suite](http://javadelight.org) is a collection of foundations and libraries to make working with Java more delightful.
 
+## Maven Repository
+
+Currently all modules are published in the following repository. Just add it to your pom.xml to get started:
+
+```xml
+<repositories>
+	<repository>
+		<id>Appjangle Releases</id>
+		<url>http://maven.appjangle.com/appjangle/releases</url>
+	</repository>
+</repositories>
+```
+
 ## Principles
 
 - Open Source under multiple licenses (Apache, MIT and GPL)
