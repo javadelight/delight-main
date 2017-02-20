@@ -36,6 +36,6 @@ Currently all modules are published in the following repository. Just add it to 
 
 Use them individually or use them in combination.
 
-- [delight-async](https://github.com/javadelight/delight-async#delight-async): Foundations and utilities for building **asynchronous** applications
+- [delight-async](https://github.com/javadelight/delight-async#delight-async): Foundations and utilities for building **asynchronous** applications [![Build Status](https://travis-ci.org/javadelight/delight-async.svg?branch=master)](https://travis-ci.org/javadelight/delight-async)
 - [delight-functional](https://github.com/javadelight/delight-functional#delight-functional): Foundations for developing Java code in a more **functional** way.
 
