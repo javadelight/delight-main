@@ -59,6 +59,10 @@
 		
 		<module>../delight-fileupload
 		</module>
+		
+		<module>../delight-tree-api
+		</module>
+		
 		<module>../delight-http-server-netty3
 		</module>
 		<module>../delight-keyvalue-android
