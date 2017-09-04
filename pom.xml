@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.javadelights</groupId>
+	<artifactId>delight-main</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>Java Delight</name>
+	<description>Java Delight Java libraries</description>
+	<url>https://www.javadelight.org</url>
+	<inceptionYear>2016</inceptionYear>
+
+
+	<scm>
+		<url>https://github.com/javadelight/delight-main</url>
+		<connection></connection>
+		<developerConnection>s</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/javadelight/delight-main/issues</url>
+	</issueManagement>
+	<developers>
+		<developer>
+			<id>mxro</id>
+			<name>Max Rohde</name>
+			<url>http://www.mxro.de/</url>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+10</timezone>
+			<organization>Pureleap Pty. Ltd.</organization>
+			<organizationUrl>https://www.pureleap.com</organizationUrl>
+		</developer>
+	</developers>
+
+	<properties>
+
+		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+	</properties>
+
+	<modules>
+		<module>../delight-async</module>
+		<module>../delight-files</module>
+		<module>../delight-http-firewall</module>
+		<module>../delight-keyvalue</module>
+		<module>../delight-maven-tools
+		</module>
+		<module>../delight-oneUtils
+		</module>
+		<module>../delight-simple-log
+		</module>
+		
+		<module>../delight-fileupload
+		</module>
+		<module>../delight-http-server-netty3
+		</module>
+		<module>../delight-keyvalue-android
+		</module>
+		<module>../delight-metrics
+		</module>
+		<module>../delight-promise
+		</module>
+		<module>../delight-strings
+		</module>
+		<module>../delight-async-properties
+		</module>
+		<module>../delight-firewall-ipwhitelist
+		</module>
+		<module>../delight-java-file-utils
+		</module>
+		
+		<module>../delight-mxGWTUtils
+		</module>
+		<module>../delight-rhino-gwt 
+		</module>
+		<module>../scheduler</module>
+		<module>../delight-client-gwt
+		</module>
+		<module>../delight-functional
+		</module>
+		<module>../delight-java-qunit
+		</module>
+		<module>../delight-keyvalue-sql
+		</module>
+		<module>../delight-mxJREUtils
+		</module>
+		<module>../delight-rhino-sandbox
+		</module>
+		<module>../delight-clients
+		</module>
+		<module>../delight-gwt-console
+		</module>
+		<module>../delight-java-ssl-utils
+		</module>
+		<module>../delight-keyvalue-tests
+		</module>
+		<module>../delight-mxSslUtils
+		</module>
+		<module>../delight-rpc
+		</module>
+		<module>../delight-concurrency
+		</module>
+		<module>../delight-gwtrpc
+		</module>
+		<module>../delight-java-start-process
+		</module>
+		<module>../delight-log
+		</module>
+		<module>../delight-nashorn-sandbox
+		</module>
+		<module>../delight-serialization
+		</module>
+		<module>../delight-concurrency-gwt
+		</module>
+		<module>../delight-gwt-simple-linker
+		</module>
+		<module>../delight-js-api
+		</module>
+		<module>../delight-log-js
+		</module>
+		<module>../delight-npm-package
+		</module>
+		<module>../delight-server
+		</module>
+		<module>../delight-factories
+		</module>
+		<module>../delight-http
+		</module>
+		<module>../delight-json
+		</module>
+		<module>../delight-oneAsyncTests
+		</module>
+		<module>../delight-services
+		</module>
+	</modules>
+
+
+	<build>
+		<plugins>
+
+		</plugins>
+	</build>
+	<reporting>
+		<plugins>
+
+		</plugins>
+	</reporting>
+	<dependencies>
+
+
+	</dependencies>
+</project>
+
