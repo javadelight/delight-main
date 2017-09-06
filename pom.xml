@@ -46,6 +46,7 @@
 	</properties>
 
 	<modules>
+		<module>../delight-trie-map-java</module>
 		<module>../delight-async</module>
 		<module>../delight-files</module>
 		<module>../delight-http-firewall</module>
