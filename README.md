@@ -24,7 +24,7 @@ Currently all modules are published in the following repository. Just add it to 
 - Supports Java 1.6+
 - Supports [Google Web Toolkit](http://www.gwtproject.org/)
 - Supports [Eclipse XTend](https://eclipse.org/xtend/)
-- Minimal external dependencies
+- Minimal external dependencies (See [Synk Report here](https://snyk.io/org/javadelight/projects))
 - No dependency injection
 - No reflection
 - Free support from [pureleap](http://pureleap.com)
